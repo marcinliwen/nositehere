@@ -1,0 +1,6 @@
+body, html, #___gatsby, #gatsby-focus-wrapper, main{
+    height: 100vh;
+}
+body, html, #___gatsby, #gatsby-focus-wrapper{
+    margin: 0px;
+}
